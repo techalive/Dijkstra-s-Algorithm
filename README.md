@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General info
-![Example screenshot](./img/Algorytm Dijkstry.png)
+![Example screenshot](./img/Algorytm_Dijkstry.png)
 
 ## Technologies
 * Java
